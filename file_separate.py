@@ -1,8 +1,8 @@
 import os
 import random
 
-imgspath = 'F:/Person'
-path = 'Person/'
+imgspath = 'C:/Yolo_v4/Dummy/darknet/build/darknet/x64/data/obj'
+path = 'data/obj/'
 
 
 images = []
